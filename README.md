@@ -1,3 +1,3 @@
 # MyDocuments
 
-Please press download-button to activate hyperlinks inside the documents
+Please press `Download` on the top-right to activate hyperlinks inside the documents
